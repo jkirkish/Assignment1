@@ -1,0 +1,90 @@
+body {
+  background-color: #4912f6;
+}
+
+.container {
+  margin: 0em 3em;
+}
+
+.section-1 {
+  display: flex;
+  flex-direction: row;
+  font-family: Arial;
+}
+.section-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#try-for-free-btn {
+  padding: 15px 40px 15px 40px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Arial;
+  border: 0px;
+  border-radius: 50px;
+  background-image: linear-gradient(to right, #ea9e3d, #ee7e38);
+  background-color: #ed8439;
+  color: #fffeff;
+}
+#button2 {
+  font-weight: bold;
+  font-size: 20px;
+  border: 0px;
+  border-radius: 50px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ed8439;
+  font-family: Arial;
+  background-image: linear-gradient(to right, #ea9e3d, #e8773e);
+  color: #fffeff;
+  height: 100px;
+  width: 285px;
+  font-size: 25px;
+}
+a {
+  text-decoration: none;
+  font-size: 25px;
+}
+a:visited {
+  color: #ccbbfc;
+}
+a:hover {
+  color: white;
+}
+.picture-1 {
+  margin-top: 50px;
+}
+.feature{
+	margin-top: 100px;
+	color:#bda8fb;
+	font-size: 15px;
+}
+.pics {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.mx-3 {
+  margin: 0em 2em;
+}
+#sciences {
+  color: #daccfd;
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial;
+  margin-top: 250px;
+  margin-bottom: 200px;
+}
+.bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.details {
+  flex-basis: 25em;
+  margin: 0em 2em;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+}
